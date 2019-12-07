@@ -1,0 +1,8 @@
+<div>
+    <h2 class="text-light">Filter</h2>
+    <hr class="bg-light" />
+    <select class="custom-select" name="genre" (change)="filterMoviesByGenre($event.target.value)">
+        <option [value]="0">All</option>
+        <option *ngFor="let genre of genres" [value]="genre.ID">{{ genre.Name }}</option>
+    </select>
+</div>

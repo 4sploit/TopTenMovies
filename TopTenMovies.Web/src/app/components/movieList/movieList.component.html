@@ -1,0 +1,3 @@
+<div class="row mt-3" id="box-search" *ngFor="let movie of movies | filterByGenre: filterVal">
+    <movie [movie]="movie"></movie>
+</div>

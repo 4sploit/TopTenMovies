@@ -1,0 +1,18 @@
+<nav class="navbar navbar-light text-center justify-content-center">
+  <h1 class="text-light display-4 heading-text">Top 10 Movies</h1>
+</nav>
+<div class="container mt-5 col-12 col-sm-8 col-md-6 col-lg-4 col-xl-4">
+  <div class="justify-content-center d-flex mb-5">
+    <addMovieTrigger></addMovieTrigger>
+  </div>
+
+  <div class="d-flex flex-row mb-5 flex-wrap justify-content-around">
+    <div class="p-2">
+      <movieFilter (onUpdateFilterVal)='updateFilterVal($event)'></movieFilter>
+    </div>
+
+    <div class="p-2">
+      <movieList [filterVal]="filterVal"></movieList>
+    </div>
+  </div>
+</div>

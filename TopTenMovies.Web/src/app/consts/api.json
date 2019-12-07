@@ -1,0 +1,10 @@
+{
+  "baseUrl": "http://toptenmovies.api",
+  "movie": {
+    "fetchMovies": "/api/Movie/FetchMovies",
+    "addMovie": "/api/Movie/Add"
+  },
+  "genre": {
+    "fetchGenres": "/api/Genre/FetchGenres"
+  }
+}

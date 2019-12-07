@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4e906a78-af72-4a3e-a5a3-527efb59efa5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://toptenmovies.wcf/GenreService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GenreService.xsd" MetadataType="Schema" ID="112d98b0-06cc-4ae3-b150-19a9e87f15ea" SourceId="1" SourceUrl="http://toptenmovies.wcf/GenreService.svc?xsd=xsd1" />
+    <MetadataFile FileName="GenreService1.xsd" MetadataType="Schema" ID="fcea9aeb-0d72-4b05-a737-5052ad1e4288" SourceId="1" SourceUrl="http://toptenmovies.wcf/GenreService.svc?xsd=xsd0" />
+    <MetadataFile FileName="GenreService.disco" MetadataType="Disco" ID="e67e17dc-81cd-4ded-a0fc-2e44bb5eb12b" SourceId="1" SourceUrl="http://toptenmovies.wcf/GenreService.svc?disco" />
+    <MetadataFile FileName="GenreService.wsdl" MetadataType="Wsdl" ID="d95cdf6a-82a1-4fae-a559-9ba29a711daf" SourceId="1" SourceUrl="http://toptenmovies.wcf/GenreService.svc?wsdl" />
+    <MetadataFile FileName="GenreService2.xsd" MetadataType="Schema" ID="679d3a8f-1b66-43ad-b092-3b3f66708490" SourceId="1" SourceUrl="http://toptenmovies.wcf/GenreService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

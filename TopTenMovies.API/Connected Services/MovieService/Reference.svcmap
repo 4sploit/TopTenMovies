@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4dcd7ced-4259-456b-8ff9-c8b042221027" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://toptenmovies.wcf/MovieService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MovieService.disco" MetadataType="Disco" ID="14c86aea-04f4-49ec-a6e9-87420378e5dd" SourceId="1" SourceUrl="http://toptenmovies.wcf/MovieService.svc?disco" />
+    <MetadataFile FileName="MovieService.xsd" MetadataType="Schema" ID="7e9f36b2-090b-4a62-9684-b4d150ce3293" SourceId="1" SourceUrl="http://toptenmovies.wcf/MovieService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MovieService1.xsd" MetadataType="Schema" ID="0c03ad47-7924-4b24-8185-e525c9803562" SourceId="1" SourceUrl="http://toptenmovies.wcf/MovieService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MovieService2.xsd" MetadataType="Schema" ID="31f6d183-ad0a-4cc6-addc-4ab37fa13773" SourceId="1" SourceUrl="http://toptenmovies.wcf/MovieService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MovieService3.xsd" MetadataType="Schema" ID="095a082e-d33f-4f00-92c6-78856265ff5b" SourceId="1" SourceUrl="http://toptenmovies.wcf/MovieService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MovieService.wsdl" MetadataType="Wsdl" ID="c9fc5667-5aa7-485b-b4cb-3f2506040c43" SourceId="1" SourceUrl="http://toptenmovies.wcf/MovieService.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

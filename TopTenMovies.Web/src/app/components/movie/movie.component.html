@@ -1,0 +1,20 @@
+
+<div class="thumbnail text-center clickable-image" (click)="toggleRatingAndGenreVisibility()">
+    <img [src]="movie.Cover" alt="" class="img-responsive">
+
+    <div class="top-caption" [hidden]="!isVisible">
+        <ngb-rating [(rate)]="movie.Rating" max="5" [formControl]="ratingCtrl">
+            <ng-template let-fill="fill" let-index="index">
+                <span class="star" [class.filled]="fill === 100">&#9733;</span>
+            </ng-template>
+        </ngb-rating>
+    </div>
+
+    <div class="caption">
+        <p class="text-light text-size movie-title">{{ movie.Title }}</p>
+    </div>
+
+    <div class="bottom-caption" [hidden]="!isVisible">
+        <p class="text-light text-size fill-bg">{{ movie._Genre }}</p>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfGenre xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Genre>
+    <ID>1</ID>
+    <Name>Action</Name>
+  </Genre>
+  <Genre>
+    <ID>2</ID>
+    <Name>Science Fiction</Name>
+  </Genre>
+  <Genre>
+    <ID>3</ID>
+    <Name>Thriller</Name>
+  </Genre>
+  <Genre>
+    <ID>4</ID>
+    <Name>Comedy</Name>
+  </Genre>
+  <Genre>
+    <ID>5</ID>
+    <Name>Drama</Name>
+  </Genre>
+</ArrayOfGenre>

@@ -1,0 +1,62 @@
+[
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Title": "The GodFather",
+    "Genre": 1,
+    "Rating": 4
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Title": "The Shawshank Redemption",
+    "Genre": 5,
+    "Rating": 1
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Title": "Forrest Gump",
+    "Genre": 5,
+    "Rating": 5
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jp",
+    "Title": "Star Wars",
+    "Genre": 2,
+    "Rating": 3
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BMTMzMTU5NjcxNl5BMl5BanBnXkFtZTcwMzE2NDU2MQ@@._V1_SX300.jpg",
+    "Title": "Anaconda",
+    "Genre": 3,
+    "Rating": 0
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BMmZlOGZkMjMtZDc4Ny00ZTQ1LWFmYTQtOThlY2JjYjg1NGQyXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "Title": "The Silence",
+    "Genre": 1,
+    "Rating": 1
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BMDQ4MGY0NWUtY2MxOC00YzI5LTg0OTEtZjNmY2Q2ZmM0MTA1XkEyXkFqcGdeQXVyNTQzOTc3MTI@._V1_SX300.jpg",
+    "Title": "Legend",
+    "Genre": 1,
+    "Rating": 2
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Title": "A Beautiful Mind",
+    "Genre": 5,
+    "Rating": 2
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Title": "Gladiator",
+    "Genre": 5,
+    "Rating": 5
+  },
+  {
+    "Cover": "https://m.media-amazon.com/images/M/MV5BZDQwMjNiMTQtY2UwYy00NjhiLTk0ZWEtZWM5ZWMzNGFjNTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Title": "Dumb And Dumber",
+    "Genre": 4,
+    "Rating": 5
+  }
+]

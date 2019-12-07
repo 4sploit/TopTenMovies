@@ -1,0 +1,25 @@
+.trigger-btn {
+  border:0;
+  background-color:transparent;
+}
+
+.trigger-img {
+  transition: 0.90s;
+  -webkit-transition: 0.90s;
+  -moz-transition: 0.90s;
+  -ms-transition: 0.90s;
+  -o-transition: 0.90s;
+}
+
+.trigger-img:hover {
+  transition: 0.90s;
+  -webkit-transition: 0.90s;
+  -moz-transition: 0.90s;
+  -ms-transition: 0.90s;
+  -o-transition: 0.90s;
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+} 

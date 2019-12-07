@@ -1,0 +1,22 @@
+﻿[
+  {
+    "ID": 1,
+    "Name": "Action"
+  },
+  {
+    "ID": 2,
+    "Name": "Science Fiction"
+  },
+  {
+    "ID": 3,
+    "Name": "Thriller"
+  },
+  {
+    "ID": 4,
+    "Name": "Comedy"
+  },
+  {
+    "ID": 5,
+    "Name": "Drama"
+  }
+]
