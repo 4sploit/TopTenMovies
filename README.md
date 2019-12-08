@@ -14,8 +14,8 @@
     - ng-bootstrap
     - bootstrap
     - RxJs
-<br />
-<br />
+
+
 ### Prerequisites:
 ```
         .NET Framework 4.7.1
