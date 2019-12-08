@@ -50,3 +50,5 @@ testem.log
 **/obj
 .vs/
 packages/
+
+TestResults/
