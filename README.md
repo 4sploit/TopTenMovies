@@ -16,9 +16,11 @@
     - RxJs
 <br />
 <br />
-### Prerequisites:-
+### Prerequisites:
+```
         .NET Framework 4.7.1
         Microsoft IIS (+ Manager)
+```
 
 ### Setup:
 ```
