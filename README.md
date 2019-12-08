@@ -18,8 +18,8 @@
 
 ### Prerequisites:
 ```
-        .NET Framework 4.7.1
-        Microsoft IIS (+ Manager)
+    .NET Framework 4.7.1
+    Microsoft IIS (+ Manager)
 ```
 
 ### Setup:
