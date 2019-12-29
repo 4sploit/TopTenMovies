@@ -1,6 +1,6 @@
 # TopTenMovies
 
-### This Is A Mini Web Application Whose Goal Is To Display A List Of Top Ten Movies Of All Times, It Also Enables Filtering Movies By Genre, Replacing Least Rated Movie With A New One.
+### A Mini Web Application Whose Goal Is To Display A List Of Top Ten Movies Of All Times, It Also Enables Filtering Movies By Genre, Replacing Least Rated Movie With A New One.
 
 ### This Mini WebApp Is Written In The Following Technologies:-
 
